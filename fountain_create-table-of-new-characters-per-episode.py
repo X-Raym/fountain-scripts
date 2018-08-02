@@ -7,7 +7,7 @@
 
 #### USER GLOBALS ####
 
-out_file = 'NEW CHARACTERS-PER-EPISODES.md' # Your output file
+out_file = 'NEW-CHARACTERS-PER-EPISODES.md' # Your output file
 title = '# New Characters Per Episodes\n' # Your file header title
 
 #### IMPORT ####
