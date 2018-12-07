@@ -44,7 +44,6 @@ html = """<!DOCTYPE html>
   <body id="fountain-js">
 
     <script type="text/javascript" src="../Fountain.js/app/js/jquery-3.2.1.min.js"></script>
-    <script type="text/javascript" src="../Fountain.js/app/js/jquery.smoothscroll.min.js"></script>
     <script type="text/javascript" src="../Fountain.js/app/js/fountain.min.js"></script>
     <script type="text/javascript" src="../Fountain.js/app/js/highcharts.js"></script>
     <script type="text/javascript" src="../Fountain.js/app/js/xrange.js"></script>
